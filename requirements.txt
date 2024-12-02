@@ -1,0 +1,5 @@
+python-telegram-bot
+nltk
+transformers
+torch
+scikit-learn
